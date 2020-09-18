@@ -1,0 +1,23 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	
+	background:  url("../images/background.jpg") ;
+	background-color: #343a40;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#container{
+	width: 1100px;
+	margin: 0 auto;
+	padding: 50px;
+	background-color: #343a40;
+}
+
+
+
